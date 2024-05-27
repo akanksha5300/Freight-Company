@@ -12,12 +12,12 @@ This project is divided into three main steps:
 Generate Data
 I used Python to generate realistic data for various aspects of the freight company's operations. This includes:
 
-Customers
-Fleet Details
-Drivers
-Routes
-Shipments
-Delivery Times
-operational Costs
-Maintenance Records
+1. Customers
+2. Fleet Details
+3. Drivers
+4. Routes
+5. Shipments
+6. Delivery Times
+7. operational Costs
+8. Maintenance Records
 
