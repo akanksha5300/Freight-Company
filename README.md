@@ -24,6 +24,23 @@ I used Python to generate realistic data for various aspects of the freight comp
 # Step 2: Set Up Database in MySQL
 I create the database and tables in MySQL and then import the generated data into these tables. This involves:
 
-Creating the database schema.
-Defining the relationships between tables.
+Creating the database schema,
+Defining the relationships between tables,
 Writing SQL scripts to populate the tables with the generated data.
+Step 3: Create Dashboard in Power BI
+Connect Database
+We connect the MySQL database to Power BI using the MySQL connector.
+
+# Build Dashboard
+I developed an interactive dashboard in Power BI to display key logistics metrics, including:
+
+1.Delivery Performance: Visualizations showing on-time deliveries, average delivery times, and delays.
+2.Operational Costs: Charts and graphs displaying fuel costs, maintenance costs, and other operational expenses.
+3.Fleet Utilization: Metrics on vehicle usage, capacity utilization, and maintenance schedules.
+4.Driver Performance: Performance metrics for drivers, including delivery times and customer feedback.
+
+Here is the screenshot of Dashboard
+
+![Screenshot (49)](https://github.com/akanksha5300/Freight-Company/assets/156895186/5432e7ed-f221-41f4-89b2-d5586e33f75b)
+
+
