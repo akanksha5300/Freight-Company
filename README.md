@@ -21,3 +21,9 @@ I used Python to generate realistic data for various aspects of the freight comp
 7. operational Costs
 8. Maintenance Records
 
+# Step 2: Set Up Database in MySQL
+I create the database and tables in MySQL and then import the generated data into these tables. This involves:
+
+Creating the database schema.
+Defining the relationships between tables.
+Writing SQL scripts to populate the tables with the generated data.
